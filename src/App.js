@@ -1,5 +1,6 @@
 import React from 'react'
 import Authp from './components/Authp'
+import Movies from './components/Movies'
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       firebase practise
     </div>
     <Authp/>
+    <Movies/>
     </div>
   )
 }

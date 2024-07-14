@@ -51,6 +51,6 @@ const logout=async()=>{
       <button onClick={logout} className="p-1 m-2 border-gray-900 border-2">logout</button>
     </div>
   );
-};
+}; 
 
 export default Authp;
